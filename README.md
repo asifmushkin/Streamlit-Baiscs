@@ -1,1 +1,1 @@
-Baisc commands of streamkit
+Baisc commands of streamlit
